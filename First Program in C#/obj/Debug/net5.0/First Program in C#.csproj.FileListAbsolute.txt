@@ -1,0 +1,48 @@
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.exe
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.deps.json
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.runtimeconfig.json
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.runtimeconfig.dev.json
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.dll
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\bin\Debug\net5.0\ref\First Program in C#.dll
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.pdb
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.csprojAssemblyReference.cache
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.AssemblyInfoInputs.cache
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.AssemblyInfo.cs
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.csproj.CoreCompileInputs.cache
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.dll
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\obj\Debug\net5.0\ref\First Program in C#.dll
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.pdb
+C:\Users\A Wonkey Tortila\OneDrive\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.genruntimeconfig.cache
+C:\Users\Wonk\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.csprojAssemblyReference.cache
+C:\Users\Wonk\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wonk\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.AssemblyInfoInputs.cache
+C:\Users\Wonk\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.AssemblyInfo.cs
+C:\Users\Wonk\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.csproj.CoreCompileInputs.cache
+C:\Users\Wonk\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.dll
+C:\Users\Wonk\Desktop\First Program in C#\obj\Debug\net5.0\ref\First Program in C#.dll
+C:\Users\Wonk\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.pdb
+C:\Users\Wonk\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.exe
+C:\Users\Wonk\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.deps.json
+C:\Users\Wonk\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.runtimeconfig.json
+C:\Users\Wonk\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.runtimeconfig.dev.json
+C:\Users\Wonk\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.dll
+C:\Users\Wonk\Desktop\First Program in C#\bin\Debug\net5.0\ref\First Program in C#.dll
+C:\Users\Wonk\Desktop\First Program in C#\bin\Debug\net5.0\First Program in C#.pdb
+C:\Users\Wonk\Desktop\First Program in C#\obj\Debug\net5.0\First Program in C#.genruntimeconfig.cache
+C:\Users\Wonk\Desktop\Projects\First Program in C#\bin\Debug\net5.0\First Program in C#.exe
+C:\Users\Wonk\Desktop\Projects\First Program in C#\bin\Debug\net5.0\First Program in C#.deps.json
+C:\Users\Wonk\Desktop\Projects\First Program in C#\bin\Debug\net5.0\First Program in C#.runtimeconfig.json
+C:\Users\Wonk\Desktop\Projects\First Program in C#\bin\Debug\net5.0\First Program in C#.runtimeconfig.dev.json
+C:\Users\Wonk\Desktop\Projects\First Program in C#\bin\Debug\net5.0\First Program in C#.dll
+C:\Users\Wonk\Desktop\Projects\First Program in C#\bin\Debug\net5.0\ref\First Program in C#.dll
+C:\Users\Wonk\Desktop\Projects\First Program in C#\bin\Debug\net5.0\First Program in C#.pdb
+C:\Users\Wonk\Desktop\Projects\First Program in C#\obj\Debug\net5.0\First Program in C#.csproj.AssemblyReference.cache
+C:\Users\Wonk\Desktop\Projects\First Program in C#\obj\Debug\net5.0\First Program in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wonk\Desktop\Projects\First Program in C#\obj\Debug\net5.0\First Program in C#.AssemblyInfoInputs.cache
+C:\Users\Wonk\Desktop\Projects\First Program in C#\obj\Debug\net5.0\First Program in C#.AssemblyInfo.cs
+C:\Users\Wonk\Desktop\Projects\First Program in C#\obj\Debug\net5.0\First Program in C#.csproj.CoreCompileInputs.cache
+C:\Users\Wonk\Desktop\Projects\First Program in C#\obj\Debug\net5.0\First Program in C#.dll
+C:\Users\Wonk\Desktop\Projects\First Program in C#\obj\Debug\net5.0\ref\First Program in C#.dll
+C:\Users\Wonk\Desktop\Projects\First Program in C#\obj\Debug\net5.0\First Program in C#.pdb
+C:\Users\Wonk\Desktop\Projects\First Program in C#\obj\Debug\net5.0\First Program in C#.genruntimeconfig.cache
