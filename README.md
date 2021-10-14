@@ -3,3 +3,8 @@ This was my first ever program in C#, and quite frankly, my first ever coding pr
 
 
 The .exe is in the Bin/Degug/Net5.0/my-First-program.exe
+
+
+================
+
+To my future employer who is looking at this, I want to just say, that I wrote this code while learning a C#, in the middle of the night.
