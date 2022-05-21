@@ -8,3 +8,7 @@ The .exe is in the Bin/Degug/Net5.0/my-First-program.exe
 ================
 
 To my future employer who is looking at this, I want to just say, that I wrote this code while learning a C#, in the middle of the night.
+
+
+REDUXED (NEW) VERSION HERE:
+https://github.com/AWonkeyTortila/XTerminal
