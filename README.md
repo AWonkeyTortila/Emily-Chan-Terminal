@@ -11,4 +11,4 @@ To my future employer who is looking at this, I want to just say, that I wrote t
 
 
 REDUXED (NEW) VERSION HERE:
-https://github.com/AWonkeyTortila/XTerminal
+https://github.com/AWonkeyTortila/ECT-Redux
